@@ -1,0 +1,14 @@
+.sidebar {
+  width: 30%;
+  float: center;
+  background-color: yellow;
+  }
+  .main{
+    color: red;
+    font-size: 50px;
+  }
+
+  .column{
+    width: 300px;
+    float:left;
+  }
